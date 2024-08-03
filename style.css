@@ -55,3 +55,17 @@ main {
 .options select {
     appearance: none;
 }
+
+.options button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background-color: green;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
