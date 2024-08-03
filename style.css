@@ -71,6 +71,10 @@ main {
 }
 
 .options button:hover {
+    background-color: rgb(20, 107, 20);
+}
+
+.output {
     background-color: #ffffff;
     padding: 30px;
     border-radius: 10px;
