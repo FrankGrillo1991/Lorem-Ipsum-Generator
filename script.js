@@ -139,8 +139,9 @@ function generateWords(numWords) {
     // Ensure the number of words requested is
     // within the bounds of the available words
     if (numWords <= words.length) {
-        return words.slice(0, numWords)
-        .join.apply(" ")
+        return words
+        .slice(0, numWords)
+        .join.slice(" ");
     } else {
         return words.join(" ");
     }
