@@ -10,7 +10,7 @@ const tagOptions = [
 // Get DOM Elements
 const optionsContainer = document.querySelector(".options");
 const outputContainer = document.querySelector(".output");
-const tagSelect = document.querySelector("tags");
+const tagsSelect = document.querySelector("tags");
 const paragraphsSlider = document.getElementById("paragraphs");
 const wordsSlider = document.getElementById("words");
 const paragraphsValue = document.getElementById("paragraphsValue");
