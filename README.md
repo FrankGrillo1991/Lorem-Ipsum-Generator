@@ -1,0 +1,1 @@
+Lorem Ipsum Generator developed with HTML, CSS & JavaScript
